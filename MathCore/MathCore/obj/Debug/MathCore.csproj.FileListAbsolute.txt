@@ -1,0 +1,6 @@
+C:\Users\Kipper\source\repos\MathCore\MathCore\bin\Debug\MathCore.dll
+C:\Users\Kipper\source\repos\MathCore\MathCore\bin\Debug\MathCore.pdb
+C:\Users\Kipper\source\repos\MathCore\MathCore\obj\Debug\MathCore.csprojAssemblyReference.cache
+C:\Users\Kipper\source\repos\MathCore\MathCore\obj\Debug\MathCore.csproj.CoreCompileInputs.cache
+C:\Users\Kipper\source\repos\MathCore\MathCore\obj\Debug\MathCore.dll
+C:\Users\Kipper\source\repos\MathCore\MathCore\obj\Debug\MathCore.pdb
