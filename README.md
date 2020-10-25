@@ -7,3 +7,4 @@ My software development portfolio:
 4. 24/05/2018 - This project taught me how to create and plot graphs. (Python)
 5. 03/10/2018 - 2D Crazy Birds Game built in the Unity Engine, using Google's Firebase SDK for user authorization, saving and loading the users data. To see the scripts inside this project please look inside "CrazyBirds2D/Scripts".
 6. 18/10/2018 - This project is testing different sorting algorithms execution times. (Python).
+7. 25/10/2020 - This project i built a website for a client, a small window cleaning business. I use some of the lastest programming techniques to achive the end result please note git hub only allows an upload of 100 files this limitation ment i couldnt upload the fonts folder but the scripts should still be readable. Please find the actual website URL to be http://c-thruwindows.great-site.net/Home.html.
