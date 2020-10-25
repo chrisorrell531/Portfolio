@@ -1,3 +1,6 @@
+# Programmed By Christopher Philip Orrell 18/10/2018.
+# This script compares different sorting algorithms.
+
 from random import randint
 from timeit import repeat
 
